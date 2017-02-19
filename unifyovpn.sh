@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 function unify {
 cp $clienttemp ${newclientname}.ovpn
